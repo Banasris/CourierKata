@@ -1,0 +1,11 @@
+C:\FundApps\CourierKata\CourierKata\bin\Debug\netcoreapp2.0\CourierKata.deps.json
+C:\FundApps\CourierKata\CourierKata\bin\Debug\netcoreapp2.0\CourierKata.runtimeconfig.json
+C:\FundApps\CourierKata\CourierKata\bin\Debug\netcoreapp2.0\CourierKata.runtimeconfig.dev.json
+C:\FundApps\CourierKata\CourierKata\bin\Debug\netcoreapp2.0\CourierKata.dll
+C:\FundApps\CourierKata\CourierKata\bin\Debug\netcoreapp2.0\CourierKata.pdb
+C:\FundApps\CourierKata\CourierKata\obj\Debug\netcoreapp2.0\CourierKata.csprojResolveAssemblyReference.cache
+C:\FundApps\CourierKata\CourierKata\obj\Debug\netcoreapp2.0\CourierKata.csproj.CoreCompileInputs.cache
+C:\FundApps\CourierKata\CourierKata\obj\Debug\netcoreapp2.0\CourierKata.AssemblyInfoInputs.cache
+C:\FundApps\CourierKata\CourierKata\obj\Debug\netcoreapp2.0\CourierKata.AssemblyInfo.cs
+C:\FundApps\CourierKata\CourierKata\obj\Debug\netcoreapp2.0\CourierKata.dll
+C:\FundApps\CourierKata\CourierKata\obj\Debug\netcoreapp2.0\CourierKata.pdb
