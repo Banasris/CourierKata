@@ -1,0 +1,16 @@
+C:\FundApps\CourierKata\CourierKata.Tests\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+C:\FundApps\CourierKata\CourierKata.Tests\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.pdb
+C:\FundApps\CourierKata\CourierKata.Tests\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+C:\FundApps\CourierKata\CourierKata.Tests\bin\Debug\netcoreapp2.0\CourierKata.Tests.deps.json
+C:\FundApps\CourierKata\CourierKata.Tests\bin\Debug\netcoreapp2.0\CourierKata.Tests.dll
+C:\FundApps\CourierKata\CourierKata.Tests\obj\Debug\netcoreapp2.0\CourierKata.Tests.csproj.CoreCompileInputs.cache
+C:\FundApps\CourierKata\CourierKata.Tests\obj\Debug\netcoreapp2.0\CourierKata.Tests.AssemblyInfoInputs.cache
+C:\FundApps\CourierKata\CourierKata.Tests\obj\Debug\netcoreapp2.0\CourierKata.Tests.AssemblyInfo.cs
+C:\FundApps\CourierKata\CourierKata.Tests\obj\Debug\netcoreapp2.0\CourierKata.Tests.csprojResolveAssemblyReference.cache
+C:\FundApps\CourierKata\CourierKata.Tests\bin\Debug\netcoreapp2.0\CourierKata.dll
+C:\FundApps\CourierKata\CourierKata.Tests\bin\Debug\netcoreapp2.0\CourierKata.pdb
+C:\FundApps\CourierKata\CourierKata.Tests\bin\Debug\netcoreapp2.0\CourierKata.Tests.pdb
+C:\FundApps\CourierKata\CourierKata.Tests\obj\Debug\netcoreapp2.0\CourierKata.Tests.dll
+C:\FundApps\CourierKata\CourierKata.Tests\obj\Debug\netcoreapp2.0\CourierKata.Tests.pdb
+C:\FundApps\CourierKata\CourierKata.Tests\bin\Debug\netcoreapp2.0\CourierKata.Tests.runtimeconfig.json
+C:\FundApps\CourierKata\CourierKata.Tests\bin\Debug\netcoreapp2.0\CourierKata.Tests.runtimeconfig.dev.json
